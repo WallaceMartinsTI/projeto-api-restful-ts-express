@@ -9,7 +9,7 @@ uma API RESTful com NodeJS e MongoDB
 
 ## Instalação
 
-No diretório do projeto, você pode usar o seguinte comando para instalar as dependências.
+No diretório do projeto, instale as dependências com:.
 
 ```bash
 npm i
